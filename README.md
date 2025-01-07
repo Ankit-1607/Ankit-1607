@@ -6,8 +6,7 @@
   </a>
 </p>
 
-## About me 🎓
-
+## About me :mortar_board:
 Aspiring Software Development Engineer (SDE) with a passion for solving real-world problems through coding and building impactful software solutions.
 
 <div align="center">
@@ -17,62 +16,113 @@ Aspiring Software Development Engineer (SDE) with a passion for solving real-wor
 ## I have worked with :computer:
 
 - **Programming Languages (Data Structures & Algorithms)**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+  <center>
+    <table>
+      <tbody>
+        <tr>
+          <td width="25%" align="center">
+            <span><strong>C</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="64px" width="64px" alt="c logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>C++</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="64px" width="64px" alt="cplusplus logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>Java</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="64px" width="64px" alt="java logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>Python</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64px" width="64px" alt="python logo"  />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </center>
 
 - **Frontend Developement**
+  <center>
+    <table>
+      <tbody>
+        <tr>
+          <td width="25%" align="center">
+            <span><strong>HTML</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64px" width="64px" alt="html5 logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>CSS</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64px" width="64px" alt="css3 logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>Javascript</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" width="64px" alt="javascript logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>React</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64px" width="64px" alt="react logo"  />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </center>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
 
 - **Backend Developement**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+  <center>
+    <table>
+      <tbody>
+        <tr>
+          <td width="25%" align="center">
+            <span><strong>Mongo DB</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64px" width="64px" alt="mongodb logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>My SQL</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64px" width="64px" alt="mysql logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>Node JS</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64px" width="64px" alt="nodejs logo"  />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </center>
 
 - **Other tools/technologies**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
+  <center>
+    <table>
+      <tbody>
+        <tr>
+          <td width="25%" align="center">
+            <span><strong>Git</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64px" width="64px" alt="git logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>Github</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="64px" width="64px" alt="github logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>AWS</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="64px" width="64px" alt="amazonwebservices logo"  />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </center>
 
 ## What am I doing currently? :thinking:
-
 - Honing my skills in Data Structures and Algorithms and problem solving
 - Working on multiple DSA and web development projects.
 - Learning the MERN stack to expand my web development expertise.
 
-## Find me
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+## Reach me
+[![Follow Me](https://img.shields.io/badge/Follow%20me-%23FF4500?style=flat&logo=github)](https://github.com/Ankit-1607)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-singh-939588263/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat&logo=gmail&logoColor=white)](mailto:ankit210716@gmail.com)
 
 ## My github stats
+![Ankit's stats](https://github-readme-stats.vercel.app/api?username=Ankit-1607&show_icons=true&count_private=true&hide=stars)
 
-<p align="left">Appreciate you stopping by! &#128516;</p>
+<p align="left">Appreciate you stopping by! 😄</p>
