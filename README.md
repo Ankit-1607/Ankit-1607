@@ -118,9 +118,10 @@ Aspiring Software Development Engineer (SDE) with a passion for solving real-wor
 - Learning the MERN stack to expand my web development expertise.
 
 ## Reach me
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat&logo=gmail&logoColor=white)](mailto:ankit210716@gmail.com)
 [![Follow Me](https://img.shields.io/badge/Follow%20me-%23FF4500?style=flat&logo=github)](https://github.com/Ankit-1607)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-singh-939588263/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat&logo=gmail&logoColor=white)](mailto:ankit210716@gmail.com)
+
 <!--
 ## My github stats
 ![Ankit's stats](https://github-readme-stats.vercel.app/api?username=Ankit-1607&show_icons=true&count_private=true&hide=stars)
