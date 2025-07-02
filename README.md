@@ -62,6 +62,10 @@ Aspiring Software Development Engineer (SDE) with a passion for solving real-wor
             <span><strong>React</strong></span><br/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64px" width="64px" alt="react logo"  />
           </td>
+          <td width="25%" align="center">
+            <span><strong>Tailwind CSS</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="64px" width="64px" alt="react logo"  />
+          </td>
         </tr>
       </tbody>
     </table>
@@ -74,16 +78,20 @@ Aspiring Software Development Engineer (SDE) with a passion for solving real-wor
       <tbody>
         <tr>
           <td width="25%" align="center">
+            <span><strong>Node JS</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64px" width="64px" alt="nodejs logo"  />
+          </td>
+          <td width="25%" align="center">
+            <span><strong>Express JS</strong></span><br/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="64px" width="64px" alt="expressjs logo"  />
+          </td>
+          <td width="25%" align="center">
             <span><strong>Mongo DB</strong></span><br/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64px" width="64px" alt="mongodb logo"  />
           </td>
           <td width="25%" align="center">
             <span><strong>My SQL</strong></span><br/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64px" width="64px" alt="mysql logo"  />
-          </td>
-          <td width="25%" align="center">
-            <span><strong>Node JS</strong></span><br/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64px" width="64px" alt="nodejs logo"  />
           </td>
         </tr>
       </tbody>
@@ -118,7 +126,7 @@ Aspiring Software Development Engineer (SDE) with a passion for solving real-wor
 - Learning the MERN stack to expand my web development expertise.
 
 ## Reach me
-[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat&logo=gmail&logoColor=white)](mailto:ankit210716@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat&logo=gmail&logoColor=white)](mailto:ankitwork140@gmail.com)
 [![Follow Me](https://img.shields.io/badge/Follow%20me-%23FF4500?style=flat&logo=github)](https://github.com/Ankit-1607)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-singh-939588263/)
 
